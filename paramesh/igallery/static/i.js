@@ -3,7 +3,7 @@ var Images=[
     {player: "steveh.jpg",name:"STEVE HARRIGNTON"},
     {player: "dustin.jpg",name:"DUSTIN HENDERSON"},
     {player: "eleven.jpg",name:"ELEVEN"},
-    {player: "max.webp",name:"MAX MAYFIELD"},
+    {player: "max.jpg",name:"MAX MAYFIELD"},
     {player: "will.jpg",name:"WILL BUYERS"},
     {player: "mike.webp",name:"Michael Wheeler"},
 ];

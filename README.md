@@ -46,7 +46,7 @@ i.html
                 <button onclick="next()">Next</button>
             </div>
             <div class="footer">
-             PARAMESHWARAN J (25016526)
+             PARAMESHWARAN J (25005306)
             </div>
         </div>
     </body>
@@ -135,10 +135,6 @@ function display()
 ```
 
 ## OUTPUT:
-![alt text](screenshot44.png)
-![alt text](screenshot45.png)
-![alt text](screenshot46.png)
-![alt text](screenshot47.png)
-![alt text](screenshot48.png)
+![alt text](<Screenshot (41).png>) ![alt text](<Screenshot (42).png>) ![alt text](<Screenshot (43).png>) ![alt text](<Screenshot (44).png>) ![alt text](<Screenshot (45).png>)
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
